@@ -2,6 +2,6 @@
 Learn_python_topic wise 
 
 # functions 
-  functions 
-  lambda
-  list-comprehension
+  1. functions 
+  2. lambda
+  3. list-comprehension
